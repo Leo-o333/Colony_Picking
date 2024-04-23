@@ -1,0 +1,9 @@
+name: opentrons
+dependencies:
+  - numpy
+  - pandas
+  - python=3.7
+  - conda-forge::opencv
+  - pip:
+    - opentrons
+    
